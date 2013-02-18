@@ -30,8 +30,8 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <!-- <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" /> -->
-  <!-- <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" /> -->
+  <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
+  <project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" />
   <!-- <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" /> -->
   <!-- <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" /> -->
@@ -304,7 +304,7 @@
   <project path="packages/apps/Launcher2" name="CyanogenMod/android_packages_apps_Launcher2" />
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
-  <project path="packages/apps/Mms" name="Team-Hydra/android_packages_apps_Mms" />
+  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
