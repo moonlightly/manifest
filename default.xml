@@ -275,7 +275,7 @@
   <project path="kernel/htc/jewel" name="Team-Hydra/android_kernel_htc_jewel" />
   <project path="kernel/htc/msm8660" name="Team-Hydra/android_kernel_htc_msm8660" />
   <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
-  <project path="kernel/samsung/smdk4210" name="dastin1015/android_kernel_samsung_smdk4210" />
+  <project path="kernel/samsung/smdk4210" name="Team-Hydra/android_kernel_samsung_smdk4210" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
