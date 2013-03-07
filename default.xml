@@ -41,6 +41,7 @@
   <project path="device/htc/msm8660-common" name="Team-Hydra/android_device_htc_msm8660-common" />
   <project path="device/htc/msm8960-common" name="Team-Hydra/android_device_htc_msm8960-common" />
   <project path="device/htc/jewel" name="Team-Hydra/android_device_htc_jewel" />
+  <project path="device/htc/pyramid" name="Team-Hydra/android_device_htc_pyramid" />
   <project path="device/htc/shooter" name="Team-Hydra/android_device_htc_shooter" />
   <project path="device/htc/shooteru" name="Team-Hydra/android_device_htc_shooteru" />
   <project path="device/htc/shootervm" name="Team-Hydra/android_device_htc_shootervm" />
