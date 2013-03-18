@@ -278,7 +278,7 @@
   <project path="kernel/htc/jewel" name="Team-Hydra/android_kernel_htc_jewel" />
   <project path="kernel/htc/msm8660" name="Team-Hydra/android_kernel_htc_msm8660" />
   <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
-  <project path="kernel/htc/pyramid" name="Team-Hydra/android_kernel_htc_pyramid" />
+  <project path="kernel/htc/pyramid" name="Team-Hydra/android_kernel_htc_pyramid" revision="cm-10.1-linaro" />
   <project path="kernel/samsung/smdk4210" name="Team-Hydra/android_kernel_samsung_smdk4210" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="prebuilt/linux-x86/toolchain/linaro" name="Team-Hydra/linaro" />
