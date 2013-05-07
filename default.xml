@@ -134,7 +134,7 @@
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
   <project path="external/liblzf" name="CyanogenMod/android_external_liblzf" />
   <project path="external/libmtp" name="CyanogenMod/android_external_libmtp" />
-  <project path="external/libncurses" name="Team-Hydra/android_external_libncurses" />
+  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
   <project path="external/libnfc-nci" name="CyanogenMod/android_external_libnfc-nci" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
   <project path="external/libnl-headers" name="CyanogenMod/android_external_libnl-headers" />
