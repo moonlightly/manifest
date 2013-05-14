@@ -293,6 +293,7 @@
   <project path="kernel/samsung/jf" name="Team-Hydra/android_kernel_samsung_jf" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="prebuilt/linux-x86/toolchain/linaro" name="Team-Hydra/linaro" />
+  <project path="prebuilt/linux-x86/toolchain/linaro-gcc-4.8" name="Team-Hydra/linaro-gcc-4.8" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
