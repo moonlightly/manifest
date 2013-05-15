@@ -39,22 +39,24 @@
   <!-- <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" /> -->
   <!-- <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" /> -->
   <!-- <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" /> -->
+  <project path="device/htc/glacier" name="Team-Hydra/android_device_htc_glacier" />
+  <project path="device/htc/jewel" name="Team-Hydra/android_device_htc_jewel" />
+  <project path="device/htc/m7-common" name="Team-Hydra/android_device_htc_m7-common" />
+  <project path="device/htc/m7wls" name="Team-Hydra/android_device_htc_m7wls" />
   <project path="device/htc/msm7x30-common" name="Team-Hydra/android_device_htc_msm7x30-common" />
   <project path="device/htc/msm8660-common" name="Team-Hydra/android_device_htc_msm8660-common" />
   <project path="device/htc/msm8960-common" name="Team-Hydra/android_device_htc_msm8960-common" />
-  <project path="device/htc/s4-common" name="Team-Hydra/android_device_htc_s4-common" />
-  <project path="device/htc/glacier" name="Team-Hydra/android_device_htc_glacier" />
-  <project path="device/htc/jewel" name="Team-Hydra/android_device_htc_jewel" />
   <project path="device/htc/pyramid" name="Team-Hydra/android_device_htc_pyramid" />
+  <project path="device/htc/s4-common" name="Team-Hydra/android_device_htc_s4-common" />
   <project path="device/htc/shooter" name="Team-Hydra/android_device_htc_shooter" />
   <project path="device/htc/shooteru" name="Team-Hydra/android_device_htc_shooteru" />
   <project path="device/htc/shootervm" name="Team-Hydra/android_device_htc_shootervm" />
   <project path="device/samsung/d710" name="Team-Hydra/android_device_samsung_d710" />
-  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
+  <project path="device/samsung/galaxys2-common" name="Team-Hydra/android_device_samsung_galaxys2-common" />
   <project path="device/samsung/jf-common" name="CyanogenMod/android_device_samsung_jf-common" />
   <project path="device/samsung/jfltetmo" name="Team-Hydra/android_device_samsung_jfltetmo" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
-  <project path="device/samsung/galaxys2-common" name="Team-Hydra/android_device_samsung_galaxys2-common" />
+  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
   <!-- <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" /> -->
   <!-- <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" /> -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
@@ -286,11 +288,12 @@
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="kernel/htc/jewel" name="dastin1015/android_kernel_htc_msm8960" revision="3.4-caf-latest2.5" />
+  <project path="kernel/htc/m7" name="Team-Hydra/android_kernel_htc_m7" />
   <project path="kernel/htc/msm7x30" name="Team-Hydra/android_kernel_htc_msm7x30-3.0" />
   <project path="kernel/htc/msm8660" name="Team-Hydra/android_kernel_htc_msm8660" />
   <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
-  <project path="kernel/samsung/smdk4210" name="Team-Hydra/android_kernel_samsung_smdk4210" />
   <project path="kernel/samsung/jf" name="Team-Hydra/android_kernel_samsung_jf" />
+  <project path="kernel/samsung/smdk4210" name="Team-Hydra/android_kernel_samsung_smdk4210" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="prebuilt/linux-x86/toolchain/linaro" name="Team-Hydra/linaro" />
   <project path="prebuilt/linux-x86/toolchain/linaro-gcc-4.8" name="Team-Hydra/linaro-gcc-4.8" />
