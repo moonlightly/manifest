@@ -295,6 +295,7 @@
   <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
   <project path="kernel/samsung/smdk4412" name="Team-Hydra/android_kernel_samsung_smdk4412" />
   <project path="kernel/samsung/jf" name="Team-Hydra/android_kernel_samsung_jf" />
+  <project path="kernel/samsung/Ramdisks" name="Team-Hydra/SGS4-RAMDISKS" />
   <project path="kernel/samsung/smdk4210" name="Team-Hydra/android_kernel_samsung_smdk4210" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="prebuilt/linux-x86/toolchain/linaro" name="Team-Hydra/linaro" />
