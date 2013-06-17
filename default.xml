@@ -300,7 +300,7 @@
   <project path="kernel/samsung/smdk4210" name="Team-Hydra/android_kernel_samsung_smdk4210" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="prebuilt/linux-x86/toolchain/linaro" name="Team-Hydra/linaro" />
-  <project path="prebuilt/linux-x86/toolchain/linaro-gcc-4.8" name="Team-Hydra/linaro-gcc-4.8" />
+  <!-- <project path="prebuilt/linux-x86/toolchain/linaro-gcc-4.8" name="Team-Hydra/linaro-gcc-4.8" /> -->
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
@@ -387,7 +387,7 @@
   <!-- <project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" groups="darwin,x86" remote="aosp" revision="refs/tags/android-4.2.2_r1" /> -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
-  <project path="prebuilts/gcc/linux-x86/arm/linaro" name="Team-Hydra/linaro" />
+  <project path="prebuilts/gcc/linux-x86/arm/linaro" name="Team-Hydra/linaro-gcc-4.8" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="linux" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" groups="linux" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" groups="linux" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
