@@ -1,5 +1,7 @@
 CyanogenMod for MiOne
 ===========
+QQ交流群:88107607 (欢迎加入)
+
 
 Submitting Patches
 ------------------
