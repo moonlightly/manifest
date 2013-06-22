@@ -296,6 +296,7 @@
   <project path="kernel/htc/msm8660" name="Team-Hydra/android_kernel_htc_msm8660" />
   <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
   <project path="kernel/htc/pyramid-sultan" name="Team-Hydra/android_kernel_htc_pyramid-sultan" revision="master" />
+  <project path="kernel/htc/holiday" name="Team-Hydra/android_kernel_htc_holiday" />
   <project path="kernel/samsung/smdk4412" name="Team-Hydra/android_kernel_samsung_smdk4412" />
   <project path="kernel/samsung/jf" name="Team-Hydra/android_kernel_samsung_jf" />
   <project path="kernel/samsung/Ramdisks" name="Team-Hydra/SGS4-RAMDISKS" />
