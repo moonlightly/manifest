@@ -60,9 +60,9 @@ git merge cm/cm-10.1
 cd $HOME/android/system/hardware/libhardware_legacy
 git fetch cm
 git merge cm/cm-10.1
-cd $HOME/android/system/system/core
-git fetch cm
-git merge cm/cm-10.1
+#cd $HOME/android/system/system/core
+#git fetch cm
+#git merge cm/cm-10.1
 cd $HOME/android/system/vendor/cm
 git fetch cm
 git merge cm/cm-10.1
