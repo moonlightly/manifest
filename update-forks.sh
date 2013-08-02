@@ -1,13 +1,15 @@
 #update forked repos
+export CURR_DIR=`readlink -f .`
+export PARENT_DIR=`readlink -f ..`
 echo updating forked repos...
-cd $HOME/android/system
+cd $PARENT_DIR
 #cd $HOME/android/system/packages/apps/Camera
 #echo Updating packages/apps/Camera...
 ####git checkout cm-10.2
 #git fetch cm
 #echo Merging...
 #git merge cm/cm-10.2
-cd $HOME/android/system/packages/apps/Phone
+cd $PARENT_DIR/packages/apps/Phone
 echo Updating packages/apps/Phone...
 ##git checkout cm-10.2
 git fetch cm
@@ -19,7 +21,8 @@ git merge cm/cm-10.2
 #git fetch cm
 #echo Merging
 #git merge cm/cm-10.2
-cd $HOME/android/system/frameworks/base
+cd 
+cd $PARENT_DIR/frameworks/base
 echo Updating frameworks/base
 ##git checkout cm-10.2
 git fetch cm
@@ -31,15 +34,15 @@ git merge cm/cm-10.2
 #git fetch cm
 #echo Merging...
 #git merge cm/cm-10.2
-cd $HOME/android/system/hardware/libhardware
+cd cd $PARENT_DIR/hardware/libhardware
 echo Updating hardware/libhardware...
 ##git checkout cm-10.2
 git fetch cm
 echo Merging...
 git merge cm/cm-10.2
-cd $HOME/android/system/android
+cd $PARENT_DIR/android
 git fetch cm
-cd $HOME/android/system/build
+cd $PARENT_DIR/build
 git fetch cm
 git merge cm/cm-10.2
 #cd $HOME/android/system/hardware/qcom/audio-caf
@@ -57,21 +60,14 @@ git merge cm/cm-10.2
 #cd $HOME/android/system/hardware/qcom/media
 #git fetch cm
 #git merge cm/cm-10.2
-cd $HOME/android/system/hardware/libhardware_legacy
+cd $PARENT_DIR/hardware/libhardware_legacy
 git fetch cm
 git merge cm/cm-10.2
 #cd $HOME/android/system/system/core
 #git fetch cm
 #git merge cm/cm-10.2
-cd $HOME/android/system/vendor/cm
+cd $PARENT_DIR/vendor/cm
 git fetch cm
 git merge cm/cm-10.2
 #
-echo update complete now opening logs to view changes...
-echo press "Q" to close log and move on to next...
-cd $HOME/android/system/packages/apps/Phone
-git log
-cd $HOME/android/system/frameworks/base
-git log
-
 echo Update complete....
