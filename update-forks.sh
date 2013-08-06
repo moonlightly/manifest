@@ -12,10 +12,8 @@ git merge cm/cm-10.2
 cd $PARENT_DIR/frameworks/opt/telephony
 git fetch cm
 git merge cm/cm-10.2
-cd cd $PARENT_DIR/hardware/libhardware
-echo Updating hardware/libhardware...
+cd $PARENT_DIR/hardware/libhardware
 git fetch cm
-echo Merging...
 git merge cm/cm-10.2
 cd $PARENT_DIR/android
 git fetch cm
@@ -28,5 +26,5 @@ git merge cm/cm-10.2
 cd $PARENT_DIR/vendor/cm
 git fetch cm
 git merge cm/cm-10.2
-#
+cd $PARENT_DIR
 echo Update complete....
