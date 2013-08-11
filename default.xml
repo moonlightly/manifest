@@ -57,6 +57,7 @@
   <project path="device/htc/s4-common" name="Team-Hydra/android_device_htc_s4-common" />
   <project path="device/htc/shooter" name="Team-Hydra/android_device_htc_shooter" />
   <project path="device/htc/shooter-common" name="Team-Hydra/android_device_htc_shooter-common" />
+  <project path="device/htc/shooterk" name="Team-Hydra/android_device_htc_shooterk" />
   <project path="device/htc/shootervm" name="Team-Hydra/android_device_htc_shootervm" />
   <project path="device/samsung/d710" name="Team-Hydra/android_device_samsung_d710" />
   <project path="device/samsung/galaxys2-common" name="CyanogenMod/android_device_samsung_galaxys2-common" />
