@@ -403,6 +403,7 @@
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="prebuilt/linux-x86/toolchain/linaro" name="Team-Hydra/linaro" revision="cm-10.1" />
   <project path="prebuilt/linux-x86/toolchain/linaro-arm-cortex-a8" name="Team-Hydra/linaro-arm-cortex-a8" revision="cm-10.1" />
+  <project path="prebuilt/linux-x86/toolchain/linaro-arm-a15" name="Team-Hydra/linaro-arm-a15" revision="cm-10.2" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="darwin" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
