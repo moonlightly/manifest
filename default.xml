@@ -326,7 +326,7 @@
   <project path="kernel/htc/msm7x30" name="Team-Hydra/android_kernel_htc_msm7x30-3.0" />
   <project path="kernel/htc/msm8660" name="Team-Hydra/android_kernel_htc_msm8660" />
   <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
-  <project path="kernel/samsung/smdk4412" name="Team-Hydra/android_kernel_samsung_smdk4412" />
+  <project path="kernel/samsung/smdk4412" name="CyanogenMod/android_kernel_samsung_smdk4412" />
   <project path="kernel/samsung/jf" name="Team-Hydra/android_kernel_samsung_jf" />
   <project path="kernel/samsung/Ramdisks" name="Team-Hydra/SGS4-RAMDISKS" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
