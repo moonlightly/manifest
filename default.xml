@@ -63,10 +63,10 @@
   <project path="device/htc/shootervm" name="Team-Hydra/android_device_htc_shootervm" />
   <project path="device/samsung/d710" name="Team-Hydra/android_device_samsung_d710" />
   <project path="device/samsung/galaxys2-common" name="CyanogenMod/android_device_samsung_galaxys2-common" revision="cm-10.2" />
-  <project path="device/samsung/jf-common" name="CyanogenMod/android_device_samsung_jf-common" />
+  <project path="device/samsung/jf-common" name="Team-Hydra/android_device_samsung_jf-common" />
   <project path="device/samsung/jfltetmo" name="Team-Hydra/android_device_samsung_jfltetmo" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
-  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
+  <project path="device/samsung/qcom-common" name="Team-Hydra/android_device_samsung_qcom-common" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" />
@@ -485,7 +485,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="b52073d9cb1b044f4701bfc32e60b927323740fb" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk,tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
-  <project path="system/core" name="CyanogenMod/android_system_core" groups="pdk" />
+  <project path="system/core" name="Team-Hydra/android_system_core" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" />
   <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" />
