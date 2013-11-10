@@ -65,7 +65,7 @@
   <project path="device/samsung/galaxys2-common" name="CyanogenMod/android_device_samsung_galaxys2-common" revision="cm-10.2" />
   <project path="device/samsung/jf-common" name="Team-Hydra/android_device_samsung_jf-common" />
   <project path="device/samsung/jfltetmo" name="Team-Hydra/android_device_samsung_jfltetmo" />
-  <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
+  <project path="device/samsung/msm8960-common" name="Team-Hydra/android_device_samsung_msm8960-common" />
   <project path="device/samsung/qcom-common" name="Team-Hydra/android_device_samsung_qcom-common" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4_r1" />
