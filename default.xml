@@ -62,7 +62,7 @@
   <project path="device/htc/shooterk" name="Team-Hydra/android_device_htc_shooterk" />
   <project path="device/htc/shootervm" name="Team-Hydra/android_device_htc_shootervm" />
   <project path="device/samsung/d710" name="Team-Hydra/android_device_samsung_d710" />
-  <project path="device/samsung/galaxys2-common" name="CyanogenMod/android_device_samsung_galaxys2-common" revision="cm-10.2" />
+  <project path="device/samsung/galaxys2-common" name="Team-Hydra/android_device_samsung_galaxys2-common" revision="cm-10.2" />
   <project path="device/samsung/jf-common" name="Team-Hydra/android_device_samsung_jf-common" />
   <project path="device/samsung/jfltetmo" name="Team-Hydra/android_device_samsung_jfltetmo" />
   <project path="device/samsung/jfltexx" name="Team-Hydra/android_device_samsung_jfltexx" />
